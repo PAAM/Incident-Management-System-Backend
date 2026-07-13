@@ -1,0 +1,15 @@
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Infrastructure.deps.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Infrastructure.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Infrastructure.pdb
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Core.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Core.pdb
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.csproj.CopyComplete
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\refint\IMS.Infrastructure.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.pdb
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\ref\IMS.Infrastructure.dll

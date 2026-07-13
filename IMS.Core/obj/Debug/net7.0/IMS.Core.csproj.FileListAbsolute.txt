@@ -1,0 +1,12 @@
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\bin\Debug\net7.0\IMS.Core.deps.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\bin\Debug\net7.0\IMS.Core.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\bin\Debug\net7.0\IMS.Core.pdb
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.csproj.AssemblyReference.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.AssemblyInfoInputs.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.AssemblyInfo.cs
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\refint\IMS.Core.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\IMS.Core.pdb
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Core\obj\Debug\net7.0\ref\IMS.Core.dll
