@@ -1,12 +1,5 @@
 ﻿using IMS.Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using IMS.Core.Entities;
-using Microsoft.EntityFrameworkCore;
 
 namespace IMS.Infrastructure.Data
 {
@@ -17,6 +10,14 @@ namespace IMS.Infrastructure.Data
         {
         }
 
-        public DbSet<Role> Roles { get; set; } = null!;
+        public DbSet<Role> Roles => Set<Role>();
+        public DbSet<Area> Areas => Set<Area>();
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(IMSDbContext).Assembly);
+        }
     }
 }
