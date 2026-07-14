@@ -13,3 +13,5 @@ C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\refint\IMS.Infrastructure.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.pdb
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\ref\IMS.Infrastructure.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Infrastructure.runtimeconfig.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.genruntimeconfig.cache
