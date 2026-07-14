@@ -13,6 +13,7 @@ namespace IMS.Infrastructure.Data
         public DbSet<Role> Roles => Set<Role>();
         public DbSet<Area> Areas => Set<Area>();
         public DbSet<Priority> Priorities => Set<Priority>();
+        public DbSet<Status> Statuses => Set<Status>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
