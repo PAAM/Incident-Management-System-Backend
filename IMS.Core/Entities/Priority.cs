@@ -7,21 +7,19 @@ using System.Threading.Tasks;
 
 namespace IMS.Core.Entities
 {
-    public class Area : BaseEntity
+    public class Priority : BaseEntity
     {
-        public string AreaCode { get; private set; } = string.Empty;
         public string Name { get; private set; } = string.Empty;
+        public string Description { get; private set; } = string.Empty;
         public bool IsActive { get; private set; }
 
-        public Area() { }
+        public Priority() { }
 
-        public Area(string areaCode, string name)
+        public Priority(string name, string description)
         {
-            AreaCode = areaCode;
             Name = name;
+            Description = description;
             IsActive = true;
         }
-
-
     }
 }
