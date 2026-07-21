@@ -616,7 +616,10 @@
       },
       "IMS.Core/1.0.0": {
         "runtime": {
-          "IMS.Core.dll": {}
+          "IMS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -91,9 +91,10 @@ C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.AssemblyInfoInputs.cache
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.AssemblyInfo.cs
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.csproj.CopyComplete
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\refint\IMS.UnitTest.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.pdb
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.genruntimeconfig.cache
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\ref\IMS.UnitTest.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.UnitTest.sourcelink.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.UnitTest\obj\Debug\net7.0\IMS.Unit.3CEAA579.Up2Date

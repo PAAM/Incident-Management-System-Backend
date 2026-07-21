@@ -8,10 +8,11 @@ C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.AssemblyInfo.cs
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.csproj.CopyComplete
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\refint\IMS.Infrastructure.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.pdb
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\ref\IMS.Infrastructure.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net7.0\IMS.Infrastructure.runtimeconfig.json
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.genruntimeconfig.cache
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infrastructure.sourcelink.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net7.0\IMS.Infr.A6A27735.Up2Date

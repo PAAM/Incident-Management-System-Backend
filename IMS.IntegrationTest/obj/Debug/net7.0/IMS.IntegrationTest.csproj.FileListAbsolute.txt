@@ -91,9 +91,10 @@ C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.AssemblyInfoInputs.cache
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.AssemblyInfo.cs
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.csproj.CoreCompileInputs.cache
-C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.csproj.CopyComplete
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\refint\IMS.IntegrationTest.dll
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.pdb
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.genruntimeconfig.cache
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\ref\IMS.IntegrationTest.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.IntegrationTest.sourcelink.json
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.IntegrationTest\obj\Debug\net7.0\IMS.Inte.B942282E.Up2Date

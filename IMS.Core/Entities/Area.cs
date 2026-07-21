@@ -13,6 +13,9 @@ namespace IMS.Core.Entities
         public string Name { get; private set; } = string.Empty;
         public bool IsActive { get; private set; }
 
+        // Navigation Property
+        public ICollection<User> Users { get; private set; } = new List<User>();
+
         public Area() { }
 
         public Area(string areaCode, string name)
