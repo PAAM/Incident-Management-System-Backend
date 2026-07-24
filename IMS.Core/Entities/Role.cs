@@ -8,6 +8,8 @@ namespace IMS.Core.Entities
         public string? Description { get; private set; }
         public bool IsActive { get; private set; }
 
+        //Navigation property
+        public ICollection<UserRole> UserRoles { get; private set; } = new List<UserRole>();
 
         private Role()
         {

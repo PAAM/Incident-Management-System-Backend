@@ -4,6 +4,7 @@ using IMS.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IMS.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(IMSDbContext))]
-    partial class IMSDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260724031105_AddIncidents")]
+    partial class AddIncidents
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -321,6 +324,7 @@ namespace IMS.Infrastructure.Data.Migrations
             modelBuilder.Entity("IMS.Core.Entities.UserCredentials", b =>
                 {
                     b.Property<int>("UserId")
+                        .HasMaxLength(30)
                         .HasColumnType("int");
 
                     b.Property<DateTimeOffset>("CreatedAt")
@@ -353,45 +357,6 @@ namespace IMS.Infrastructure.Data.Migrations
                     b.HasKey("UserId");
 
                     b.ToTable("UserCredentials", (string)null);
-                });
-
-            modelBuilder.Entity("IMS.Core.Entities.UserRole", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("AssignedByUserId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTimeOffset>("CreatedAt")
-                        .HasColumnType("datetimeoffset");
-
-                    b.Property<bool?>("IsActive")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
-                        .HasDefaultValue(true);
-
-                    b.Property<int>("RoleId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTimeOffset?>("UpdatedAt")
-                        .HasColumnType("datetimeoffset");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("RoleId");
-
-                    b.HasIndex("UserId", "RoleId")
-                        .IsUnique()
-                        .HasDatabaseName("IX_UserRoles_UserId_RoleId");
-
-                    b.ToTable("UserRoles", (string)null);
                 });
 
             modelBuilder.Entity("IMS.Core.Entities.Incident", b =>
@@ -478,25 +443,6 @@ namespace IMS.Infrastructure.Data.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("IMS.Core.Entities.UserRole", b =>
-                {
-                    b.HasOne("IMS.Core.Entities.Role", "Role")
-                        .WithMany("UserRoles")
-                        .HasForeignKey("RoleId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("IMS.Core.Entities.User", "User")
-                        .WithMany("UserRoles")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Role");
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("IMS.Core.Entities.Area", b =>
                 {
                     b.Navigation("Incidents");
@@ -514,11 +460,6 @@ namespace IMS.Infrastructure.Data.Migrations
                     b.Navigation("Incidents");
                 });
 
-            modelBuilder.Entity("IMS.Core.Entities.Role", b =>
-                {
-                    b.Navigation("UserRoles");
-                });
-
             modelBuilder.Entity("IMS.Core.Entities.Status", b =>
                 {
                     b.Navigation("Incidents");
@@ -532,8 +473,6 @@ namespace IMS.Infrastructure.Data.Migrations
 
                     b.Navigation("UserCredentials")
                         .IsRequired();
-
-                    b.Navigation("UserRoles");
                 });
 #pragma warning restore 612, 618
         }

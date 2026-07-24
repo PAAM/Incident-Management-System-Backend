@@ -13,10 +13,9 @@ namespace IMS.Infrastructure.Data.Configurations
             builder.Property(x => x.Id);
 
             builder.HasKey(x => x.UserId);
-            
+
             builder.Property(x => x.UserId)
-                .IsRequired()
-                .HasMaxLength(30);
+                .IsRequired();                
 
             builder.Property(x => x.PasswordHash)
                 .IsRequired()
