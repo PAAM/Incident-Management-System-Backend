@@ -20,7 +20,8 @@ namespace IMS.Core.Entities
         public ICollection<Incident> AssignedIncidents { get; private set; } = new List<Incident>();
         public UserCredentials UserCredentials { get; private set; } = null!;
         public ICollection<UserRole> UserRoles { get; private set; }
-
+        public ICollection<IncidentAttachment> IncidentAttachments { get; private set; } = new List<IncidentAttachment>();
+        
         private User()
         {
             //Required By EF

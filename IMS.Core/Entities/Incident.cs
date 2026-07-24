@@ -21,6 +21,7 @@ namespace IMS.Core.Entities
         public User ReportedByUser { get; private set; } = null!;
         public User? AssignedToUser { get; private set; } = null!;
         public ICollection<IncidentComment> IncidentComments { get; private set; } = new List<IncidentComment>();
+        public ICollection<IncidentAttachment> IncidentAttachments { get; private set; } = new List<IncidentAttachment>();
 
         private Incident() { }
 

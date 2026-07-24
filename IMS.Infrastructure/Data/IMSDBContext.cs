@@ -16,8 +16,10 @@ namespace IMS.Infrastructure.Data
         public DbSet<Status> Statuses => Set<Status>();
         public DbSet<User> Users => Set<User>();
         public DbSet<UserCredentials> UserCredentials => Set<UserCredentials>();
+        public DbSet<UserRole> UserRoles => Set<UserRole>();
         public DbSet<Incident> Incidents => Set<Incident>();
         public DbSet<IncidentComment> IncidentComments => Set<IncidentComment>();
+        public DbSet<IncidentAttachment> IncidentAttachments => Set<IncidentAttachment>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
