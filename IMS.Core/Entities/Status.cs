@@ -7,11 +7,15 @@ using System.Threading.Tasks;
 
 namespace IMS.Core.Entities
 {
-    public class Status: BaseEntity
+    public class Status : BaseEntity
     {
         public string Name { get; private set; } = string.Empty;
         public string Description { get; private set; } = string.Empty;
-        public bool IsActive{ get; private set; }        
+        public bool IsActive { get; private set; }
+
+        //Navigation Property
+        public ICollection<Incident> Incidents { get; private set; } = new List<Incident>();
+
 
         public Status() { }
 

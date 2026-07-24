@@ -15,6 +15,7 @@ namespace IMS.Core.Entities
 
         // Navigation Property
         public ICollection<User> Users { get; private set; } = new List<User>();
+        public ICollection<Incident> Incidents { get; private set; } = new List<Incident>();
 
         public Area() { }
 

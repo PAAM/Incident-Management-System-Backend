@@ -1,5 +1,4 @@
 ﻿using IMS.Core.Interfaces;
-using IMS.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IMS.Api.Controllers

@@ -13,6 +13,9 @@ namespace IMS.Core.Entities
         public string Description { get; private set; } = string.Empty;
         public bool IsActive { get; private set; }
 
+        //Navigation Property
+        public ICollection<Incident> Incidents { get; private set; } = new List<Incident>();
+
         public Priority() { }
 
         public Priority(string name, string description)

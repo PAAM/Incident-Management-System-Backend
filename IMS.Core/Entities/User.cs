@@ -16,9 +16,10 @@ namespace IMS.Core.Entities
 
         //Navigation property
         public Area Area { get; private set; } = null!;
-
+        public ICollection<Incident> ReportedIncidents { get; private set; } = new List<Incident>();
+        public ICollection<Incident> AssignedIncidents { get; private set; } = new List<Incident>();    
         public UserCredentials UserCredentials { get; private set; } = null!;
-       
+
         private User()
         {
             //Required By EF
