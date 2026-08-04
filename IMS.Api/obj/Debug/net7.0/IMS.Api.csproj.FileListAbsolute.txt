@@ -76,3 +76,9 @@ C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\obj\Debug\net7.0\staticwebassets.build.endpoints.json
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\obj\Debug\net7.0\IMS.Api.csproj.Up2Date
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\obj\Debug\net7.0\IMS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paola\Documents\Espacio Pedro\DotNet Study\InsidentManagementSystem\IMS\IMS.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
